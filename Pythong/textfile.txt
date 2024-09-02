@@ -1,0 +1,4 @@
+Use lists to store a collection of data that does not need random access.
+• Use lists if the data has to be modified frequently.
+• Use a set if you want to ensure that every element in the data structure must be unique.
+• Use tuples when you want that your data should not be altered.
